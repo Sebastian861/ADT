@@ -5,6 +5,7 @@ public class Node {
     private Node next;
     private Node prev;
 
+
     public Node(long value) {
         this.value = value;
     }

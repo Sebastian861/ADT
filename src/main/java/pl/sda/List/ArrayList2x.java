@@ -14,9 +14,7 @@ public class ArrayList2x implements IList {
 
     // to do
     @Override
-    public boolean isEmpty() {
-        return false;
-    }
+    public boolean isEmpty() { return false; }
 
     @Override
     public int size() {
